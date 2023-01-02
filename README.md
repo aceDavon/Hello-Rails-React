@@ -34,11 +34,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Budget App <a name="about-project"></a>
+# 📖 Hello Rails-React <a name="about-project"></a>
 
-![budget-gif](https://img.money.com/2020/05/mmds42_budget_app_1a72greenbg.gif?quality=60&w=800)
 
-**Budget App** Ruby on Rails mobile layout project for tracking expenses for a user according to categories. This project was built to satisfy the Microverse Module 5 capstone and is MIT Licensed.
+
+**Hello Rails-React** Rails-React is bulit to practice working with Rails and React as front-end. This project was built to satisfy the Microverse Module 6 block 1 requirement and is MIT Licensed.
 
 ## 🛠 Built With <a name="built-with"></a>
 
